@@ -1,5 +1,8 @@
-/* Check Whether One String Is Rotation Of Another. Examples : If “JavaJ2eeStrutsHibernate" is a string then below are some rotated versions of this string. "StrutsHibernateJavaJ2ee", “J2eeStrutsHibernateJava", "HibernateJavaJ2eeStruts",
-Inbox*/
+/* Check Whether One String Is Rotation Of Another. 
+Examples : If “JavaJ2eeStrutsHibernate" is a string then below are some rotated versions of this string. 
+"StrutsHibernateJavaJ2ee", 
+“J2eeStrutsHibernateJava", 
+"HibernateJavaJ2eeStruts",*/
 package codeoftheday;
 public class String_Rotation {
 
